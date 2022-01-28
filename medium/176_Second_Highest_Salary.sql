@@ -8,7 +8,7 @@ Write an SQL query to report the second highest salary from the Employee table. 
 
 -- Solution 1, Simple
 
-SELECT MAX(salary) as SecondHighestSalary
+SELECT MAX(salary) AS SecondHighestSalary
 FROM employee
-WHERE salary NOT IN (SELECT MAX(Salary) from employee)
+WHERE salary NOT IN (SELECT MAX(Salary) FROM employee)
 ;
