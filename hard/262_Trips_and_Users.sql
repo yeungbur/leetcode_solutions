@@ -12,17 +12,14 @@ WITH clean AS(
     SELECT users_id FROM users WHERE banned = 'No'
 ),
 
-
 eligible AS(
     SELECT client_id, driver_id, status, request_at
     FROM trips
     WHERE client_id IN (SELECT * FROM clean) AND driver_id IN (SELECT * FROM clean)
 ),
 
-
 numerator AS(    
-    SELECT SUM(
-    CASE WHEN status != 'completed' THEN 1 ELSE 0 END) AS num, request_at
+    SELECT SUM(CASE WHEN status != 'completed' THEN 1 ELSE 0 END) AS num, request_at
     FROM eligible
     GROUP BY 2
 ),
