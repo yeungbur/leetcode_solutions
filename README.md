@@ -16,3 +16,4 @@ https://leetcode.com/problemset/database/
 | [184](https://leetcode.com/problems/department-highest-salary/) | Medium | Department Highest Salary | [SQL](medium/184_Department_Highest_Salary.sql)
 | [185](https://leetcode.com/problems/department-top-three-salaries/) | Hard | Department Top Three Salaries | [SQL](hard/185_Department_Top_Three_Salaries.sql)
 | [196](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | Delete Duplicate Emails | [SQL](easy/196_Delete_Duplicate_Emails.sql)
+| [197](https://leetcode.com/problems/rising-temperature/) | Easy | Rising Temperature | [SQL](easy/197_Rising_Temperature.sql)
