@@ -15,3 +15,4 @@ https://leetcode.com/problemset/database/
 | [183](https://leetcode.com/problems/customers-who-never-order/) | Easy | Customers Who Never Order | [SQL](easy/183_Customers_Who_Never_Order.sql)
 | [184](https://leetcode.com/problems/department-highest-salary/) | Medium | Department Highest Salary | [SQL](medium/184_Department_Highest_Salary.sql)
 | [185](https://leetcode.com/problems/department-top-three-salaries/) | Hard | Department Top Three Salaries | [SQL](hard/185_Department_Top_Three_Salaries.sql)
+| [196](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | Delete Duplicate Emails | [SQL](easy/196_Delete_Duplicate_Emails.sql)
