@@ -18,3 +18,4 @@ https://leetcode.com/problemset/database/
 | [196](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | Delete Duplicate Emails | [SQL](easy/196_Delete_Duplicate_Emails.sql)
 | [197](https://leetcode.com/problems/rising-temperature/) | Easy | Rising Temperature | [SQL](easy/197_Rising_Temperature.sql)
 | [262](https://leetcode.com/problems/trips-and-users/) | Hard | Trips and Users | [SQL](hard/262_Trips_and_Users.sql)
+| [601](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | Human Traffic of Stadium | [SQL](hard/601_Human_Traffic_of_Stadium.sql)
