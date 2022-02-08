@@ -21,3 +21,4 @@ https://leetcode.com/problemset/database/
 | [262](https://leetcode.com/problems/trips-and-users/) | Hard | Trips and Users | [SQL](hard/262_Trips_and_Users.sql)
 | [596](https://leetcode.com/problems/classes-more-than-5-students/) | Easy | Classes More Than 5 Students | [SQL](easy/596_Classes_More_Than_5_Students.sql)
 | [601](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | Human Traffic of Stadium | [SQL](hard/601_Human_Traffic_of_Stadium.sql)
+| [620](https://leetcode.com/problems/not-boring-movies/) | Easy | Not Boring Movies | [SQL](easy/620_Not_Boring_Movies.sql)
